@@ -1,61 +1,53 @@
-# Digicast Extensions & Mobile Ecosystem 🎬📦
+# Digicast Official Extensions & Creator Assets 🎬📦
 
-Official extension packages and companion tools for the **Digicast** creator platform.
+Official extension packages, facecam overlays, and companion stream tools for the **Digicast** creator ecosystem.
+
+🔗 **Official Web Platform:** [https://digicast-web.vercel.app](https://digicast-web.vercel.app)
 
 ---
 
 ## 🌟 What is Digicast?
 
-**Digicast** is an instant highlight and live workflow platform built for YouTube streamers, content creators, and video editing teams.
+**Digicast** is an instant highlight capture, stream intelligence, and clip delivery ecosystem built for YouTube livestreamers, content creators, and professional video editing teams.
 
-It allows creators to capture clutch gaming moments, podcasts highlights, and funny live reactions instantly, process high-resolution video directly on-device, and deliver ready-to-edit clips to video editors in real-time.
-
----
-
-## 🎯 Use Cases
-
-- 🎮 **Gaming & Esports Creators:** Instantly bookmark clutch plays, 1v4 victories, and funny moments during live broadcasts.
-- 🎙️ **Podcasts & Talk Shows:** Mark engaging discussion topics and timestamped quotes on the fly.
-- ✂️ **Video Editors:** Receive instant highlight notifications with precise timestamps for rapid YouTube Shorts & TikTok turnaround.
-- 📱 **Mobile Creators:** Render and trim full-resolution clips directly on mobile hardware without requiring third-party desktop tools.
+It allows creators to capture clutch gaming moments, podcast discussions, and live reactions in real-time, process high-resolution video directly on-device with zero cloud privacy exposure, and deliver ready-to-edit clips to video editors instantly.
 
 ---
 
-## ✨ Features
+## 🎯 What's Included
 
-- ⚡ **Instant Live Chat Trigger:** Mark highlights instantly using chat commands during live streams.
-- ⏪ **Smart Replay Buffer:** Captures the full build-up leading up to the highlight and creator reactions.
-- 📱 **100% On-Device Processing:** Video rendering and clipping run locally on your hardware for complete privacy.
-- 🚀 **Team Telegram Delivery:** Direct highlight delivery to your video production chat.
-- 🎬 **Original Quality Extraction:** Downloads 1080p60 / 1440p / 4K streams with original audio bitrate.
+### 1. Modular Mobile Extensions (`.dcast`)
+- ⚡ **YouTube Stream Video Downloader:** High-speed on-device stream video & audio extraction supporting 1080p60 and 4K.
+- ✂️ **FFmpeg Precision Video Trimmer:** Lossless precision stream cutter and high-efficiency MP4 encoder.
+- 🎬 **Digicast Clip Engine (Full Suite):** All-in-one automated pipeline uniting detection, download, and trimming.
+
+### 2. Live Stream Assets
+- 🖼️ **Facecam Overlays:** Neon Cyberpunk animated webcam borders, Minimal Titanium audio visualizer borders.
+- 🟩 **Green Screen Effects:** 3D animated YouTube subscribe buttons and glitch intermission scene transitions.
+- 🎮 **Custom Video Frames:** Esports tactical stream HUDs and dual-creator podcast split-screen layouts.
+- 📸 **Live Frame Photos:** Lo-Fi studio backgrounds and cyberpunk intermission "Stream Starting Soon" cards.
 
 ---
 
-## 🧩 Available Extensions
+## 🧩 Extension Catalog
 
-Extensions are modular `.dcast` packages that expand video processing capabilities:
-
-| Extension | Version | Description | Download |
+| Extension Package | Version | Compatibility | Description |
 |---|---|---|---|
-| **YouTube Video Downloader** | `v1.0.0` | High-speed on-device stream video & audio downloader (1080p60/4K). | [`com.digicast.ext.youtubedl.dcast`](extensions/com.digicast.ext.youtubedl.dcast) |
-| **FFmpeg Video Trimmer** | `v1.0.0` | Lossless precision stream cutter & high-efficiency MP4 encoder. | [`com.digicast.ext.ffmpeg.dcast`](extensions/com.digicast.ext.ffmpeg.dcast) |
-| **Digicast Clip Engine (Full Suite)** | `v1.0.0` | All-in-one automated pipeline (Downloader + Lossless Trimmer). | [`com.digicast.ext.clipengine.dcast`](extensions/com.digicast.ext.clipengine.dcast) |
+| **YouTube Video Downloader** | `v1.0.0` | Android 8.0+ | Direct on-device stream video & audio downloader. |
+| **FFmpeg Video Trimmer** | `v1.0.0` | Android 8.0+ | Lossless stream cutter & MP4 encoder. |
+| **Digicast Clip Engine (Full Suite)** | `v1.0.0` | Android 8.0+ | Integrated auto-clip pipeline. |
 
 ---
 
-## 📲 How to Install Extensions
+## 📲 How to Install & Use
 
-### Option 1: In-App Catalog (Recommended)
-1. Open the **Digicast App** on your mobile device.
-2. Go to **Settings → Extensions Catalog**.
-3. Tap **Install** next to the extension you need.
-
-### Option 2: Direct File Installation
-1. Download any `.dcast` file from this repository or the [Releases](https://github.com/Priydarshansingh/Digicast/releases) tab.
-2. Open the file on your device to install with Digicast.
+1. Launch the **Digicast Mobile App** on your Android device.
+2. Navigate to **Settings → Extensions Catalog**.
+3. Select any extension package to install with one click.
+4. For live stream overlays, import downloaded `.webm` or `.png` assets directly into OBS Studio or Streamlabs as a Media Source.
 
 ---
 
-## 📄 Credits
-- **Developer:** [@livehellboy](https://t.me/livehellboy)
-- **License:** MIT License
+## 🌐 Official Links
+- **Platform Web Portal:** [https://digicast-web.vercel.app](https://digicast-web.vercel.app)
+- **License:** Open Creator Community License
