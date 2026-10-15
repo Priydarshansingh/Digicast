@@ -2,9 +2,26 @@
 
 Official extension packages, facecam overlays, and companion stream tools for the **Digicast** creator ecosystem.
 
-🔗 **Official Web Platform:** [https://digicast-web.vercel.app](https://digicast-web.vercel.app)
+🔗 **Official Web Platform:** [https://digicast-web.vercel.app](https://digicast-web.vercel.app)  
+📱 **Latest Android App (APK):** [Download digicast-app-latest.apk (v1.0.0)](https://raw.githubusercontent.com/Priydarshansingh/Digicast/main/download/digicast-app-latest.apk)
 
 ---
+
+## 📲 Official Android App Download
+
+Download the latest version of the official **Digicast Studio Android App**:
+
+| Package | Version | Direct Download Link | Format |
+|---|---|---|---|
+| **Digicast Studio Mobile** | `v1.0.0 (Latest)` | [📥 **Download APK**](https://raw.githubusercontent.com/Priydarshansingh/Digicast/main/download/digicast-app-latest.apk) | `.apk` (~30 MB) |
+
+- **Direct GitHub Repository Path:** [`download/digicast-app-latest.apk`](download/digicast-app-latest.apk)
+- **Included Features:**
+  - Full Onboarding & Studio Authentication
+  - Real-time YouTube live chat capture & clutch moment marking
+  - Creator Wallet with double-entry ledger (D-Coins & DP points)
+  - 24-Hour Stream Pass via sponsored ad view
+  - Verified Editors discovery & rate cards
 
 ## 🌟 What is Digicast?
 
